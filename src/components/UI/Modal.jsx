@@ -1,3 +1,3 @@
 export default function Modal({ children }) {
-  return <dialog>{children}</dialog>;
+  return <dialog className="min-h-[90%]" open>{children}</dialog>;
 }

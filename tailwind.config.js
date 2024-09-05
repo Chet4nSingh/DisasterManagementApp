@@ -4,9 +4,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        'gun-metal': '#19323C',
+        'gun-metal': '#333',
         'gun-metal-dark': '#12242B',
         'honey-dew': '#EAF1E4',
+        'antique-white': '#FEEFDD',
+        'moonstone': '#50B2C0',
+        'atomic-tangerine': '#FAAA8D'
       }
     },
   },
