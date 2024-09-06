@@ -15,7 +15,7 @@ function App() {
       <main className="px-8 flex justify-between">
         <Map />
         <Aside />
-        <button onClick={() => setChatIsOpen(true)} className="fixed bottom-16 left-4 w-24 h-24 rounded-full bg-gun-metal hover:bg-gun-metal-dark hover:scale-110 duration-100 text-white text-4xl">
+        <button onClick={() => setChatIsOpen(true)} className="fixed bottom-16 left-4 w-24 h-24 rounded-full outline-none bg-dark-purple hover:bg-dark-purple-x hover:scale-110 duration-100 text-white text-4xl">
           <i className="fa fa-phone" aria-hidden="true"></i>
         </button>
       </main>
