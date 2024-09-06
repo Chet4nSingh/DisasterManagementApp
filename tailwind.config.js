@@ -9,7 +9,10 @@ export default {
         'honey-dew': '#EAF1E4',
         'antique-white': '#FEEFDD',
         'moonstone': '#50B2C0',
-        'atomic-tangerine': '#FAAA8D'
+        'atomic-tangerine': '#FAAA8D',
+        'beige': '#E2E8CE',
+        'ash-gray': '#566B4C',
+        'eerie-black': '#262626'
       }
     },
   },
